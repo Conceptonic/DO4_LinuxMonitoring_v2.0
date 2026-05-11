@@ -1,0 +1,1 @@
+cat ../04/logs/*.log | goaccess --log-format=COMBINED -
